@@ -1,4 +1,4 @@
-# qc
+# Quantcast Coding Task 
 
 1. Install python3 (https://www.python.org/downloads/)
 2. Install pip (https://pip.pypa.io/en/stable/installation/)
