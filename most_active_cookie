@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 most_active_cookie.py $1 $2 $3
